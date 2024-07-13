@@ -3,7 +3,7 @@ import React from "react";
 
 const Home = () => {
   return (
-    <main className="text-black-100">
+    <main className="min-h-screen bg-gray-100">
       <Hero />
     </main>
   );
